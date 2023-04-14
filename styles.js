@@ -46,38 +46,3 @@ const styles = StyleSheet.create({
 
 export default styles;
 
-
-
-
-// container: {
-//     flexDirection: 'row',
-//     backgroundColor: 'yellow',
-//     width: '90%',
-//     height: 150,
-//     borderRadius: 10
-// },
-// viewImagem: {
-//     width:'30%',
-//     padding: 10
-// },
-// viewDados: {
-//     width: '70%',
-//     padding: 10,
-// },
-// poster: {
-//     height: '100%',
-//     width: '100%',
-//     borderRadius: 10
-// },
-// titulo: {
-//     fontSize: 18,
-//     fontWeight: 'bold',
-//     textAlign: 'center'
-// },
-// sinopse: {
-//     marginBottom: 10
-// },
-// btnComprar: {
-//     borderRadius: 15,
-//     bottom: 10
-// },
